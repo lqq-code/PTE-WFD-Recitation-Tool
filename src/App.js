@@ -51,17 +51,7 @@ const App = () => {
       <span>
         6月全球预测
       </span>
-      <p>
-        {questionData.map((question) => (
-          <React.Fragment key={question.id}>
-            <strong>{question.title}:</strong> {question.text}
-            <br />
-            {question.textEn}
-            <br />
-          </React.Fragment>
-        ))}
-      </p>
-
+      
       {supported && (
         <div className="speechMenu">
           {!speaking ? (
@@ -81,6 +71,17 @@ const App = () => {
           <SettingsOutlined onClick={() => setShowSpeechSettings(true)} />
         </div>
       )}
+      <p>
+        {questionData.map((question) => (
+          <React.Fragment key={question.id}>
+            <strong>{question.title}:</strong> {question.text}
+            <br />
+            {question.textEn}
+            <br />
+          </React.Fragment>
+        ))}
+      </p>
+
 
       <Dialog
         open={showSpeechSettings}

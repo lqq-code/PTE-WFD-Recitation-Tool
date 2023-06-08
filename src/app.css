@@ -44,7 +44,7 @@
   width: fit-content;
   border-radius: 4px;
   position: absolute;
-  display: flex;
+  display: contents;
   align-items: center;
   margin-top: 20px;
   right: 50%;
