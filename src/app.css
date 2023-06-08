@@ -1,42 +1,43 @@
-.app{
-  width: 50%;
-  margin: 20px auto; 
+.app {
+  width: 90%;
+  margin: 20px auto;
 }
 
-.app h1{
+.app h1 {
   margin-bottom: 10px;
+  font-size: 24px;
 }
 
 .app > span {
   display: block;
   font-style: italic;
-  font-size: 18px;
-  margin-bottom: 20px;
+  font-size: 16px;
+  margin-bottom: 15px;
   color: hsl(180, 2%, 23%);
 }
 
-.app p{
+.app p {
   font-weight: 400;
   line-height: 1.5;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #222222;
 }
 
-.speechSettings{
+.speechSettings {
   display: grid;
-  grid-gap: 15px;
+  grid-gap: 10px;
 }
 
-.speechSettings > select{
-  height: 30px;
+.speechSettings > select {
+  height: 28px;
 }
 
-.rangeContainer{
+.rangeContainer {
   display: flex;
   flex-direction: column;
 }
 
-.speechMenu{
+.speechMenu {
   padding: 3px 5px;
   background-color: white;
   box-shadow: 2px 2px 8px gray;
@@ -45,14 +46,15 @@
   position: absolute;
   display: flex;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 20px;
   right: 50%;
+  transform: translateX(50%);
 }
 
 .speechMenu .MuiSvgIcon-root {
   stroke: gainsboro;
-  stroke-width: .7;
-  font-size: 1.3rem;
+  stroke-width: 0.7;
+  font-size: 1.2rem;
   margin-right: 5px;
   border-radius: 100%;
   padding: 5px;
