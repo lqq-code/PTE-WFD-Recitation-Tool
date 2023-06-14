@@ -116,8 +116,67 @@ export const questionData = [
     {
       id: 20,
       title: "2450",
-      text: "你的学期论文。应包括当前的社会问题",
-      textEn: "your term papers. should include current social issues",
+      text: "你的学期论文,应包括当前的社会问题",
+      textEn: "your term papers,should include current social issues",
+    },
+    {
+      id: 21,
+      title: "2442",
+      text: "即使是最有动力的学生也可能需要帮助来选择自己的职业",
+      textEn: "even the most motivated students may need help to choose their careers",
+    },
+    {
+      id: 22,
+      title: "2439",
+      text: "许多学生现在学习科学、技术、工程和数学",
+      textEn: "many students are now studying science, technology, engineering and maths",
+    },
+    {
+      id: 23,
+      title: "2436",
+      text: "我们鼓励学生在截止日期前完成申请",
+      textEn: "we encourage students to complete applications before the deadline",
+    },
+    {
+      id: 24,
+      title: "2433",
+      text: "视觉辅助对复习真的很有帮助",
+      textEn: "visual aid is really helpful for a revising",
+    },
+    {
+      id: 25,
+      title: "2432",
+      text: "我会尽快回来",
+      textEn: "i will come back as soon as possible",
+    },
+    {
+      id: 26,
+      title: "909",
+      text: "我研究的基本原理是展示城市生态系统的价值",
+      textEn: "the rationale of my research is to present the value of the urban ecosystem",
+    },
+    {
+      id: 27,
+      title: "2428",
+      text: "我们的学生参加了交流项目，以拓宽他们的视野",
+      textEn: "our students have participated in exchange  programs to widen their horizons",
+    },
+    {
+      id: 28,
+      title: "2286",
+      text: "整理课堂笔记可以提高学习效率",
+      textEn: "keeping organized class notes makes study time more efficient",
+    },
+    {
+      id: 29,
+      title: "2108",
+      text: "我们不再回复任何邮寄推荐信请求",
+      textEn: "we no longer respond to any postal reference requests",
+    },
+    {
+      id: 30,
+      title: "2012",
+      text: "关于这个话题没有理想的辩论",
+      textEn: "there is no ideal debate on this topic",
     },
   ];
-  
