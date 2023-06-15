@@ -179,4 +179,66 @@ export const questionData = [
       text: "关于这个话题没有理想的辩论",
       textEn: "there is no ideal debate on this topic",
     },
+    {
+      id: 31,
+      title: "889",
+      text: "有些人认为这是关心，有些人则认为这是鲁莽",
+      textEn: "While some people regard it as care, others regard it as reckless.",
+    },
+    {
+      id: 32,
+      title: "2005",
+      text: "社交媒体对新闻业有重大影响",
+      textEn: "social media has a significant  impact on journalism",
+    },
+    {
+      id: 33,
+      title: "1999",
+      text: "本科课程的完整列表可以在网站上找到",
+      textEn: "the full list of undergraduate programs can be found on the website",
+    },
+
+    {
+      id: 34,
+      title: "1996",
+      text: "广泛鼓励将考古学家的研究与社区项目相结合",
+      textEn: "The integration of archeologists' studies with community projects is widely encouraged",
+    },
+    {
+      id: 35,
+      title: "1995",
+      text: "会计专业的学生今天早上需要提交论文",
+      textEn: "accountancy students need to submit their dissertations this week",
+    },
+    {
+      id: 36,
+      title: "1977",
+      text: "政治假设是基于投票行为",
+      textEn: "political assumptions are based on voting behaviors ",
+    },
+    {
+      id: 37,
+      title: "1974",
+      text: "这周我不能发论文",
+      textEn: "i can't hand out my dissertation this week",
+    },
+    {
+      id: 38,
+      title: "1975",
+      text: "他的分析研究似乎是基于错误的前提",
+      textEn: "his analysis study appears to be based on the false premise",
+    },
+    {
+      id: 39,
+      title: "1970",
+      text: "每个班将选出一名学生代表",
+      textEn: "one student representative will be selected from each class",
+    },
+    {
+      id: 40,
+      title: "1969",
+      text: "研究人员发现，树木可以缓解压力和焦虑",
+      textEn: "researchers found that trees can relieve stress and anxiety",
+    },
+   
   ];
