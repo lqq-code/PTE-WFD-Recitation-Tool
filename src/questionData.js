@@ -1,5 +1,4 @@
-export const questionData = [
-  {
+export const questionData = [{
     id: 1,
     title: "929",
     text: "很明显，国家贸易体系是一件好事",
@@ -275,7 +274,6 @@ export const questionData = [
     title: "1727",
     text: "这所大学将寻求对这座略显空旷的剧院进行大规模翻新",
     textEn: "the university will seek a colossal renovation to the plain empty theater",
-
   },
   {
     id: 47,
@@ -444,42 +442,50 @@ export const questionData = [
     title: "1465",
     text: "工业现在带来的就业机会比农业和渔业加起来还要多",
     textEn: "industries now bring more job opportunities than agriculture and fishing combined",
-  }, {
+  },
+  {
     id: 75,
     title: "1414",
     text: "该部门正在组织7月份的伦敦之行",
     textEn: "the department is organizing a trip to London in July",
-  }, {
+  },
+  {
     id: 76,
     title: "1413",
     text: "离开房间时，关上身后的门。",
     textEn: "close the door behind you when you leave the room",
-  }, {
+  },
+  {
     id: 77,
     title: "1411",
     text: "含有过多热量的食物几乎没有营养价值",
     textEn: "foods containing overabundant calories supply little or no nutritional value",
-  }, {
+  },
+  {
     id: 78,
     title: "1369",
     text: "作业应在截止日期前提交给部门办公室",
     textEn: "assignments should be submitted to the department office before the deadline",
-  }, {
+  },
+  {
     id: 79,
     title: "1358",
     text: "近年来，沟通技巧变得越来越重要",
     textEn: "Communication skills are increasingly important in recent years",
-  }, {
+  },
+  {
     id: 80,
     title: "1326",
     text: "教程时间表可以在课程网站上找到",
     textEn: "the tutorial timetable can be found on the course website",
-  }, {
+  },
+  {
     id: 81,
     title: "1303",
     text: "各成员应向相关业务基金集中捐款",
     textEn: "Members should make concentrated contributions to associated operating funds",
-  }, {
+  },
+  {
     id: 82,
     title: "1302",
     text: "许多专家认为世界气候正在变化",
@@ -490,41 +496,158 @@ export const questionData = [
     title: "1297",
     text: "植物是可以生长在陆地或水中的生物",
     textEn: "plants are the living things that can grow in land or in water",
-  }, {
+  },
+  {
     id: 84,
     title: "1289",
     text: "人工智能在过去几年里取得了重大进展",
     textEn: "artificial intelligence has made significant progress for the last few years",
-  }, {
+  },
+  {
     id: 85,
     title: "1280",
     text: "行业专家将讨论自动化劳动力中的工作机会",
     textEn: "industry experts will discuss job opportunities in an automated workforce",
-  }, {
+  },
+  {
     id: 86,
     title: "1278",
     text: "该事件的主要目击者的回忆相互矛盾",
     textEn: "the key witnesses to the event have conflicting recollections",
-  }, {
+  },
+  {
     id: 87,
     title: "1265",
     text: "自人类历史以来，极端天气就层出不穷",
     textEn: "there have been long streams of extreme weather since human history",
-  }, {
+  },
+  {
     id: 88,
     title: "1244",
     text: "机械工程在工业革命期间首次崭露头角",
     textEn: "mechanical engineering first became prominent during the industrial revolution",
-  }, {
+  },
+  {
     id: 88,
     title: "1238",
     text: "他写诗歌、戏剧以及科学论文",
     textEn: "he wrote poetry and plays as well as scientific papers",
-  }, {
+  },
+  {
     id: 90,
     title: "1231",
     text: "经济预测被证明是不正确的",
     textEn: "The economic predictions turned out to be incorrect",
   },
-
+  {
+    id: 91,
+    title: "1203",
+    text: "疾病和疾病这两个术语虽然有明显的区别，但却令人困惑",
+    textEn: "the terms illness and disease are confusing despite clear differences",
+  },
+  {
+    id: 92,
+    title: "1165",
+    text: "在配置上花费的时间变化很大",
+    textEn: "the amount of time spent on configuration varies considerably",
+  },
+  {
+    id: 93,
+    title: "1151",
+    text: "经济上没有认识到借贷必然是坏事",
+    textEn: "there is no economic recognition that borrowing is necessarily bad",
+  },
+  {
+    id: 94,
+    title: "1141",
+    text: "这项作业的截止日期是明天",
+    textEn: "the deadline of this assignment is tomorrow",
+  },
+  {
+    id: 95,
+    title: "1115",
+    text: "所有的学生都有自己的学习风格",
+    textEn: "all students have their own styles of learning",
+  },
+  {
+    id: 96,
+    title: "1105",
+    text: "许多大学的讲座现在可以在互联网上观看",
+    textEn: "many university lectures can now be viewed on the internet",
+  },
+  {
+    id: 97,
+    title: "1092",
+    text: "当植物的根枯萎时，叶子就会受损",
+    textEn: "when the roots of a plant failed foliage suffers",
+  },
+  {
+    id: 98,
+    title: "1081",
+    text: "一本新的文章集已经出版",
+    textEn: "a new collection of articles has been published",
+  },
+  {
+    id: 99,
+    title: "1072",
+    text: "必须采取措施防止失业率上升",
+    textEn: "measures must be taken to prevent unemployment rate from increasing",
+  },
+  {
+    id: 100,
+    title: "1071",
+    text: "计算器允许我们在不出错的情况下加数字",
+    textEn: "calculators allow us to add numbers without making mistakes",
+  },
+  {
+    id: 101,
+    title: "1069",
+    text: "这种严重的疾病现在已经被根除了",
+    textEn: "the disease that was serious has now been eradicated",
+  }, {
+    id: 102,
+    title: "1062",
+    text: "导入的程序包可能在许多计算机中使用",
+    textEn: "imported packages are likely to be used in many computers",
+  }, {
+    id: 103,
+    title: "1061",
+    text: "你的想法在研讨会和辅导中很复杂",
+    textEn: "your ideas are sophisticated in seminars and tutorials",
+  }, {
+    id: 104,
+    title: "1060",
+    text: "语言学是对语言的科学研究和分析",
+    textEn: "linguistics is the scientific study and analysis of language",
+  }, {
+    id: 105,
+    title: "1057",
+    text: "你所有的作业都应该在下周二之前提交",
+    textEn: "all of your assignments should be submitted by next tuesday",
+  }, {
+    id: 106,
+    title: "1055",
+    text: "历史系的研究非常活跃",
+    textEn: "the history department is very active in research",
+  }, {
+    id: 107,
+    title: "1052",
+    text: "专员将把资金分配给所有主权国家",
+    textEn: "the commissioner will apportion the funds among all the sovereignties",
+  }, {
+    id: 108,
+    title: "1045",
+    text: "您将通过持续评估和考试进行测试",
+    textEn: "you will be tested via continuous assessment and examinations",
+  }, {
+    id: 109,
+    title: "1039",
+    text: "大学合唱团的试唱会将推迟到下周。",
+    textEn: "audition of the university choir will be on hold until the next week",
+  }, {
+    id: 110,
+    title: "1034",
+    text: "农民需要适应气候的变化",
+    textEn: "the farmers need to adapt to the changes of the climate",
+  },
 ];
