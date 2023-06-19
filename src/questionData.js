@@ -474,5 +474,57 @@ export const questionData = [
     title: "1326",
     text: "教程时间表可以在课程网站上找到",
     textEn: "the tutorial timetable can be found on the course website",
+  }, {
+    id: 81,
+    title: "1303",
+    text: "各成员应向相关业务基金集中捐款",
+    textEn: "Members should make concentrated contributions to associated operating funds",
+  }, {
+    id: 82,
+    title: "1302",
+    text: "许多专家认为世界气候正在变化",
+    textEn: "many experts think that the world climate is changing",
   },
+  {
+    id: 83,
+    title: "1297",
+    text: "植物是可以生长在陆地或水中的生物",
+    textEn: "plants are the living things that can grow in land or in water",
+  }, {
+    id: 84,
+    title: "1289",
+    text: "人工智能在过去几年里取得了重大进展",
+    textEn: "artificial intelligence has made significant progress for the last few years",
+  }, {
+    id: 85,
+    title: "1280",
+    text: "行业专家将讨论自动化劳动力中的工作机会",
+    textEn: "industry experts will discuss job opportunities in an automated workforce",
+  }, {
+    id: 86,
+    title: "1278",
+    text: "该事件的主要目击者的回忆相互矛盾",
+    textEn: "the key witnesses to the event have conflicting recollections",
+  }, {
+    id: 87,
+    title: "1265",
+    text: "自人类历史以来，极端天气就层出不穷",
+    textEn: "there have been long streams of extreme weather since human history",
+  }, {
+    id: 88,
+    title: "1244",
+    text: "机械工程在工业革命期间首次崭露头角",
+    textEn: "mechanical engineering first became prominent during the industrial revolution",
+  }, {
+    id: 88,
+    title: "1238",
+    text: "他写诗歌、戏剧以及科学论文",
+    textEn: "he wrote poetry and plays as well as scientific papers",
+  }, {
+    id: 90,
+    title: "1231",
+    text: "经济预测被证明是不正确的",
+    textEn: "The economic predictions turned out to be incorrect",
+  },
+
 ];
