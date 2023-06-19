@@ -361,4 +361,65 @@ export const questionData = [
       text: "所有学生会的学生都可以登记他们的名字以获得这项服务",
       textEn: "all the student union students can register their names to get that service",
     },
+    {
+      id: 61,
+      title: "217",
+      text: "实践经验是法律培训的重要组成部分",
+      textEn: "practical experience is a vital part of legal training",
+    },
+    {
+      id: 62,
+      title: "145",
+      text: "姿势不好和颈部拉伤对上班族来说很常见",
+      textEn: "poor posture and neck strain are common for office workers",
+    },
+    {
+      id: 63,
+      title: "130",
+      text: "本课程主要介绍统计学和数据分析",
+      textEn: "this course mainly introduces statistics and data analysis",
+    },
+    {
+      id: 64,
+      title: "60",
+      text: "图书馆位于校园的北侧",
+      textEn: "the library is located on the north side of this campus",
+    },
+    {
+      id: 65,
+      title: "10",
+      text: "该系明年将继续提供三项新的奖学金",
+      textEn: "the department will continue to offer three new scholarships next year",
+    },
+    {
+      id: 66,
+      title: "110",
+      text: "表现出清晰、正确、简洁的英语写作能力就是偏执",
+      textEn: "a demonstrated ability to write clear correct and concise english is bigotry",
+    },
+    {
+      id: 67,
+      title: "48",
+      text: "技术改变了我们使用和研究的媒介",
+      textEn: "technology has changed the media we both used and studied",
+    },
+    {
+      id: 68,
+      title: "36",
+      text: "海报在更大的演讲厅展出",
+      textEn: "the posters are on display at the larger lecture theater",
+    },
+
+     {
+      id: 69,
+      title: "5",
+      text: "这门课程的毕业生通常会在保险行业找到工作",
+      textEn: "",
+    },
+     {
+      id: 70,
+      title: "",
+      text: "",
+      textEn: "",
+    },
   ];
