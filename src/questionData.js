@@ -1,4 +1,5 @@
-export const questionData = [{
+export const questionData = [
+  {
     id: 1,
     title: "929",
     text: "很明显，国家贸易体系是一件好事",
@@ -74,7 +75,8 @@ export const questionData = [{
     id: 13,
     title: "2459",
     text: "办公室在周一和周四新生研讨会后开放",
-    textEn: "the office opens on monday and thursday following the freshman seminar",
+    textEn:
+      "the office opens on monday and thursday following the freshman seminar",
   },
   {
     id: 14,
@@ -98,7 +100,8 @@ export const questionData = [{
     id: 17,
     title: "2455",
     text: "在考试期间，电子设备必须留给监督者人",
-    textEn: "during the examination electronic devices must be left to the supervisor",
+    textEn:
+      "during the examination electronic devices must be left to the supervisor",
   },
   {
     id: 18,
@@ -122,19 +125,22 @@ export const questionData = [{
     id: 21,
     title: "2442",
     text: "即使是最有动力的学生也可能需要帮助来选择自己的职业",
-    textEn: "even the most motivated students may need help to choose their careers",
+    textEn:
+      "even the most motivated students may need help to choose their careers",
   },
   {
     id: 22,
     title: "2439",
     text: "许多学生现在学习科学、技术、工程和数学",
-    textEn: "many students are now studying science, technology, engineering and maths",
+    textEn:
+      "many students are now studying science, technology, engineering and maths",
   },
   {
     id: 23,
     title: "2436",
     text: "我们鼓励学生在截止日期前完成申请",
-    textEn: "we encourage students to complete applications before the deadline",
+    textEn:
+      "we encourage students to complete applications before the deadline",
   },
   {
     id: 24,
@@ -152,13 +158,15 @@ export const questionData = [{
     id: 26,
     title: "909",
     text: "我研究的基本原理是展示城市生态系统的价值",
-    textEn: "the rationale of my research is to present the value of the urban ecosystem",
+    textEn:
+      "the rationale of my research is to present the value of the urban ecosystem",
   },
   {
     id: 27,
     title: "2428",
     text: "我们的学生参加了交流项目，以拓宽他们的视野",
-    textEn: "our students have participated in exchange  programs to widen their horizons",
+    textEn:
+      "our students have participated in exchange  programs to widen their horizons",
   },
   {
     id: 28,
@@ -182,7 +190,8 @@ export const questionData = [{
     id: 31,
     title: "889",
     text: "有些人认为这是关心，有些人则认为这是鲁莽",
-    textEn: "While some people regard it as care, others regard it as reckless.",
+    textEn:
+      "While some people regard it as care, others regard it as reckless.",
   },
   {
     id: 32,
@@ -194,14 +203,16 @@ export const questionData = [{
     id: 33,
     title: "1999",
     text: "本科课程的完整列表可以在网站上找到",
-    textEn: "the full list of undergraduate programs can be found on the website",
+    textEn:
+      "the full list of undergraduate programs can be found on the website",
   },
 
   {
     id: 34,
     title: "1996",
     text: "广泛鼓励将考古学家的研究与社区项目相结合",
-    textEn: "The integration of archeologists' studies with community projects is widely encouraged",
+    textEn:
+      "The integration of archeologists' studies with community projects is widely encouraged",
   },
   {
     id: 35,
@@ -243,37 +254,43 @@ export const questionData = [{
     id: 41,
     title: "1961",
     text: "我们致力于招聘来自各种背景和身份的候选人",
-    textEn: "We are committed to recruiting candidates from all backgrounds and identities",
+    textEn:
+      "We are committed to recruiting candidates from all backgrounds and identities",
   },
   {
     id: 42,
     title: "1949",
     text: "许多农业工人来到伦敦东区寻找替代工作",
-    textEn: "A lot of agricultural workers came to the East End to look for alternative work",
+    textEn:
+      "A lot of agricultural workers came to the East End to look for alternative work",
   },
   {
     id: 43,
     title: "1936",
     text: "在那段时间里，人们有大家庭作为一些孩子损失的保险",
-    textEn: "during that time people had large families as an insurance against some children loss",
+    textEn:
+      "during that time people had large families as an insurance against some children loss",
   },
   {
     id: 44,
     title: "1811",
     text: "下周关于殖民主义的话题将是核裁军",
-    textEn: "the topic next week on colonialism will be the nuclear disarmament",
+    textEn:
+      "the topic next week on colonialism will be the nuclear disarmament",
   },
   {
     id: 45,
     title: "1730",
     text: "他一直在寻找使工业和农业更紧密地结合在一起的方法。",
-    textEn: "He was constantly looking for ways to bring industry and agriculture closer together",
+    textEn:
+      "He was constantly looking for ways to bring industry and agriculture closer together",
   },
   {
     id: 46,
     title: "1727",
     text: "这所大学将寻求对这座略显空旷的剧院进行大规模翻新",
-    textEn: "the university will seek a colossal renovation to the plain empty theater",
+    textEn:
+      "the university will seek a colossal renovation to the plain empty theater",
   },
   {
     id: 47,
@@ -297,13 +314,15 @@ export const questionData = [{
     id: 50,
     title: "988",
     text: "保留收藏书籍有助于学生取得最大成就",
-    textEn: "reserved collection books contribute to the most achievements of students",
+    textEn:
+      "reserved collection books contribute to the most achievements of students",
   },
   {
     id: 51,
     title: "952",
     text: "有些人认为这是关心，而另一些人则认为这是鲁莽。",
-    textEn: "Some people regarded it as care, while others regarded it as recklessness",
+    textEn:
+      "Some people regarded it as care, while others regarded it as recklessness",
   },
   {
     id: 52,
@@ -321,13 +340,15 @@ export const questionData = [{
     id: 54,
     title: "462",
     text: "生理学研究涉及传统科学和社会科学",
-    textEn: "the study of physiology involves in traditional sciences and social sciences",
+    textEn:
+      "the study of physiology involves in traditional sciences and social sciences",
   },
   {
     id: 55,
     title: "445",
     text: "美国天文学家制定了将宇宙飞船降落在火星上的计划",
-    textEn: "The American astronomers made a plan for landing a spaceship on Mars",
+    textEn:
+      "The American astronomers made a plan for landing a spaceship on Mars",
   },
   {
     id: 56,
@@ -339,7 +360,8 @@ export const questionData = [{
     id: 57,
     title: "440",
     text: "在语言学习中，组织新类别的系统方法是必不可少的",
-    textEn: "in language learning a systematic method of organizing new categories is essential",
+    textEn:
+      "in language learning a systematic method of organizing new categories is essential",
   },
   {
     id: 58,
@@ -351,13 +373,15 @@ export const questionData = [{
     id: 59,
     title: "373",
     text: "地球的大气层主要由氧气和氮气组成",
-    textEn: "The earth's atmosphere is primarily composed of oxygen and nitrogen gases",
+    textEn:
+      "The earth's atmosphere is primarily composed of oxygen and nitrogen gases",
   },
   {
     id: 60,
     title: "321",
     text: "所有学生会的学生都可以登记他们的名字以获得这项服务",
-    textEn: "all the student union students can register their names to get that service",
+    textEn:
+      "all the student union students can register their names to get that service",
   },
   {
     id: 61,
@@ -387,13 +411,15 @@ export const questionData = [{
     id: 65,
     title: "10",
     text: "该系明年将继续提供三项新的奖学金",
-    textEn: "the department will continue to offer three new scholarships next year",
+    textEn:
+      "the department will continue to offer three new scholarships next year",
   },
   {
     id: 66,
     title: "110",
     text: "表现出清晰、正确、简洁的英语写作能力就是偏执",
-    textEn: "a demonstrated ability to write clear correct and concise english is bigotry",
+    textEn:
+      "a demonstrated ability to write clear correct and concise english is bigotry",
   },
   {
     id: 67,
@@ -411,7 +437,8 @@ export const questionData = [{
     id: 69,
     title: "5",
     text: "这门课程的毕业生通常会在保险行业找到工作",
-    textEn: "graduates from this course generally find jobs in insurance industry()",
+    textEn:
+      "graduates from this course generally find jobs in insurance industry()",
   },
   {
     id: 70,
@@ -423,7 +450,8 @@ export const questionData = [{
     id: 71,
     title: "1521",
     text: "在提交论文之前，你的论文必须得到导师的批准",
-    textEn: "before submitting the paper, your thesis must be approved by your tutor",
+    textEn:
+      "before submitting the paper, your thesis must be approved by your tutor",
   },
   {
     id: 72,
@@ -435,13 +463,15 @@ export const questionData = [{
     id: 73,
     title: "1362",
     text: "大学的所有实验室都必须戴上护目镜",
-    textEn: "protective goggles must be worn in all the university's laboratories",
+    textEn:
+      "protective goggles must be worn in all the university's laboratories",
   },
   {
     id: 74,
     title: "1465",
     text: "工业现在带来的就业机会比农业和渔业加起来还要多",
-    textEn: "industries now bring more job opportunities than agriculture and fishing combined",
+    textEn:
+      "industries now bring more job opportunities than agriculture and fishing combined",
   },
   {
     id: 75,
@@ -459,13 +489,15 @@ export const questionData = [{
     id: 77,
     title: "1411",
     text: "含有过多热量的食物几乎没有营养价值",
-    textEn: "foods containing overabundant calories supply little or no nutritional value",
+    textEn:
+      "foods containing overabundant calories supply little or no nutritional value",
   },
   {
     id: 78,
     title: "1369",
     text: "作业应在截止日期前提交给部门办公室",
-    textEn: "assignments should be submitted to the department office before the deadline",
+    textEn:
+      "assignments should be submitted to the department office before the deadline",
   },
   {
     id: 79,
@@ -483,7 +515,8 @@ export const questionData = [{
     id: 81,
     title: "1303",
     text: "各成员应向相关业务基金集中捐款",
-    textEn: "Members should make concentrated contributions to associated operating funds",
+    textEn:
+      "Members should make concentrated contributions to associated operating funds",
   },
   {
     id: 82,
@@ -501,13 +534,15 @@ export const questionData = [{
     id: 84,
     title: "1289",
     text: "人工智能在过去几年里取得了重大进展",
-    textEn: "artificial intelligence has made significant progress for the last few years",
+    textEn:
+      "artificial intelligence has made significant progress for the last few years",
   },
   {
     id: 85,
     title: "1280",
     text: "行业专家将讨论自动化劳动力中的工作机会",
-    textEn: "industry experts will discuss job opportunities in an automated workforce",
+    textEn:
+      "industry experts will discuss job opportunities in an automated workforce",
   },
   {
     id: 86,
@@ -519,13 +554,15 @@ export const questionData = [{
     id: 87,
     title: "1265",
     text: "自人类历史以来，极端天气就层出不穷",
-    textEn: "there have been long streams of extreme weather since human history",
+    textEn:
+      "there have been long streams of extreme weather since human history",
   },
   {
     id: 88,
     title: "1244",
     text: "机械工程在工业革命期间首次崭露头角",
-    textEn: "mechanical engineering first became prominent during the industrial revolution",
+    textEn:
+      "mechanical engineering first became prominent during the industrial revolution",
   },
   {
     id: 88,
@@ -543,7 +580,8 @@ export const questionData = [{
     id: 91,
     title: "1203",
     text: "疾病和疾病这两个术语虽然有明显的区别，但却令人困惑",
-    textEn: "the terms illness and disease are confusing despite clear differences",
+    textEn:
+      "the terms illness and disease are confusing despite clear differences",
   },
   {
     id: 92,
@@ -555,7 +593,8 @@ export const questionData = [{
     id: 93,
     title: "1151",
     text: "经济上没有认识到借贷必然是坏事",
-    textEn: "there is no economic recognition that borrowing is necessarily bad",
+    textEn:
+      "there is no economic recognition that borrowing is necessarily bad",
   },
   {
     id: 94,
@@ -591,7 +630,8 @@ export const questionData = [{
     id: 99,
     title: "1072",
     text: "必须采取措施防止失业率上升",
-    textEn: "measures must be taken to prevent unemployment rate from increasing",
+    textEn:
+      "measures must be taken to prevent unemployment rate from increasing",
   },
   {
     id: 100,
@@ -604,97 +644,121 @@ export const questionData = [{
     title: "1069",
     text: "这种严重的疾病现在已经被根除了",
     textEn: "the disease that was serious has now been eradicated",
-  }, {
+  },
+  {
     id: 102,
     title: "1062",
     text: "导入的程序包可能在许多计算机中使用",
     textEn: "imported packages are likely to be used in many computers",
-  }, {
+  },
+  {
     id: 103,
     title: "1061",
     text: "你的想法在研讨会和辅导中很复杂",
     textEn: "your ideas are sophisticated in seminars and tutorials",
-  }, {
+  },
+  {
     id: 104,
     title: "1060",
     text: "语言学是对语言的科学研究和分析",
     textEn: "linguistics is the scientific study and analysis of language",
-  }, {
+  },
+  {
     id: 105,
     title: "1057",
     text: "你所有的作业都应该在下周二之前提交",
     textEn: "all of your assignments should be submitted by next tuesday",
-  }, {
+  },
+  {
     id: 106,
     title: "1055",
     text: "历史系的研究非常活跃",
     textEn: "the history department is very active in research",
-  }, {
+  },
+  {
     id: 107,
     title: "1052",
     text: "专员将把资金分配给所有主权国家",
-    textEn: "the commissioner will apportion the funds among all the sovereignties",
-  }, {
+    textEn:
+      "the commissioner will apportion the funds among all the sovereignties",
+  },
+  {
     id: 108,
     title: "1045",
     text: "您将通过持续评估和考试进行测试",
     textEn: "you will be tested via continuous assessment and examinations",
-  }, {
+  },
+  {
     id: 109,
     title: "1039",
     text: "大学合唱团的试唱会将推迟到下周。",
-    textEn: "audition of the university choir will be on hold until the next week",
-  }, {
+    textEn:
+      "audition of the university choir will be on hold until the next week",
+  },
+  {
     id: 110,
     title: "1034",
     text: "农民需要适应气候的变化",
     textEn: "the farmers need to adapt to the changes of the climate",
-  }, {
+  },
+  {
     id: 111,
     title: "951",
     text: "蜂蜜可以用作食品和保健品",
     textEn: "honey can be used as food and health product",
-  }, {
+  },
+  {
     id: 112,
     title: "933",
     text: "这门课程涉及纯数学和应用数学",
     textEn: "the course involves pure and applied mathematics",
-  }, {
+  },
+  {
     id: 113,
     title: "904",
     text: "世界各地的学术图书馆都在稳步整合社交媒体",
-    textEn: "academic libraries across the world are steadily incorporating social media",
-  }, {
+    textEn:
+      "academic libraries across the world are steadily incorporating social media",
+  },
+  {
     id: 114,
     title: "886",
     text: "名单上的许多疾病已经被根除",
     textEn: "many diseases on the list have been eradicated",
-  }, {
+  },
+  {
     id: 115,
     title: "878",
     text: "树木通过吸收越野行驶的水而有益于城市",
     textEn: "trees benefit the city by absorbing water running off-road",
-  }, {
+  },
+  {
     id: 116,
     title: "864",
     text: "许多大学的讲座现在可以在互联网上查阅",
     textEn: "many universities' lectures can now be reviewed on the internet",
-  }, {
+  },
+  {
     id: 117,
     title: "860",
     text: "神经科学是由完全独立的部分组成的",
     textEn: "neuroscience is a compound of completely separate parts",
-  }, {
+  },
+  {
     id: 118,
     title: "858",
     text: "文物船失事的那一年引起了历史学家的兴趣",
-    textEn: "the year when the ship of artifacts was wrecked interested historians",
-  }, {
+    textEn:
+      "the year when the ship of artifacts was wrecked interested historians",
+  },
+  {
     id: 119,
     title: "847",
     text: "美国人逐渐从数量上定义了植物生长和生殖发育的过程",
-    textEn: "americans have progressively defined the process of plant growth and reproductive development in quantitative terms",
-  }, {
+    textEn:
+      "americans have progressively defined the process of plant growth and reproductive development in quantitative terms",
+  },
+  {
     id: 120,
     title: "833",
     text: "速度是指物体或人移动的速度",
@@ -711,22 +775,28 @@ export const questionData = [{
     title: "809",
     text: "股票市场重新设计了全世界的市场",
     textEn: "the stock market redesigned the market throughout the world",
-  },{
+  },
+  {
     id: 123,
     title: "805",
     text: "这座城堡的设计目的是恐吓当地人和敌人",
-    textEn: "the castle was designed to intimidate both local people and the enemies",
-  },{
+    textEn:
+      "the castle was designed to intimidate both local people and the enemies",
+  },
+  {
     id: 124,
     title: "799",
     text: "国际交流是我们学习计划的重要组成部分",
-    textEn: "International exchanges formed the important part of our study program",
-  },{
+    textEn:
+      "International exchanges formed the important part of our study program",
+  },
+  {
     id: 125,
     title: "798",
     text: "糖是一种由碳、氧和氢组成的化合物",
     textEn: "sugar is a compound which consists of carbon oxygen and hydrogen",
-  },{
+  },
+  {
     id: 126,
     title: "758",
     text: "请注意，讲座将准时开始，所以请不要迟到",
@@ -736,21 +806,149 @@ export const questionData = [{
     id: 127,
     title: "745",
     text: "鉴于数字革命，新闻业面临危机",
-    textEn: "journalism faces the crisis in the light of the digital revolution",
-  },{
+    textEn:
+      "journalism faces the crisis in the light of the digital revolution",
+  },
+  {
     id: 128,
     title: "738",
     text: "学生商店有一系列文具",
     textEn: "the student shop has a range of stationery",
-  },{
+  },
+  {
     id: 129,
     title: "1010",
     text: "逾期的申请在任何情况下都不予受理",
     textEn: "late applications are not accepted under any circumstances",
-  },{
+  },
+  {
     id: 130,
     title: "1008",
     text: "学生们应该把书包放在门口的桌子上",
     textEn: "students should leave their bags on the table by the door",
+  },
+  {
+    id: 131,
+    title: "1005",
+    text: "房地产市场的崩溃在全世界引发了经济衰退",
+    textEn:
+      "the collapse of the housing market has triggered recessions throughout the world",
+  },
+  {
+    id: 132,
+    title: "1004",
+    text: "动量被定义为质量和速度的组合",
+    textEn: "momentum is defined as the combination of mass and velocity",
+  },
+  {
+    id: 133,
+    title: "982",
+    text: "我们不再回应任何材料请求",
+    textEn: "we are no longer responding to any material requests",
+  },
+  {
+    id: 134,
+    title: "965",
+    text: "如果我们想重置密码，我们需要回答安全问题",
+    textEn:
+      "we need to answer security questions if we want to reset the password",
+  },
+  {
+    id: 135,
+    title: "996",
+    text: "盐是从海水中产生的或从地下提取的",
+    textEn: "salt is produced from the seawater or extracted from the ground",
+  },
+  {
+    id: 136,
+    title: "941",
+    text: "他们制定了一种独特的方法来培训员工",
+    textEn: "they developed a unique approach to training their employees",
+  },
+  {
+    id: 137,
+    title: "927",
+    text: "有些人的动机是竞争，而另一些人则更喜欢合作",
+    textEn:
+      "some people are motivated by competition while others prefer to collaborate",
+  },
+  {
+    id: 138,
+    title: "842",
+    text: "美国人逐渐发现了数量上的增长",
+    textEn:
+      "americans have progressively found the growth in quantitative terms",
+  },
+  {
+    id: 139,
+    title: "885",
+    text: "新媒体已经超越了传统的国界",
+    textEn: "the new media has transcended the traditional national boundaries",
+  },
+  {
+    id: 140,
+    title: "835",
+    text: "现阶段我们不能考虑涨价",
+    textEn: "we cannot consider an increase in price at this stage",
+  },
+  {
+    id: 141,
+    title: "764",
+    text: "我以为它是在一个小会议室里扔的",
+    textEn: "i thought it was thrown in a small meeting room",
+  },
+  {
+    id: 142,
+    title: "763",
+    text: "学生们发现正确或错误的问题比简短的答案更难回答",
+    textEn: "students find true or false questions harder than short answers",
+  },
+  {
+    id: 143,
+    title: "748",
+    text: "我们能够联系到许多研究对象",
+    textEn: "we were able to contact a number of  research subjects",
+  },
+  {
+    id: 144,
+    title: "735",
+    text: "这所大学的历史悠久而有趣",
+    textEn: "the history of the university is long and a interesting one",
+  },
+  {
+    id: 145,
+    title: "734",
+    text: "大学后面的花园在夏天对公众开放",
+    textEn: "the garden behind the university is open to the public in summer",
+  },
+  {
+    id: 146,
+    title: "717",
+    text: "一定要选择一门能提供良好职业机会的课程",
+    textEn: "make sure you choose a course that provides great career opportunities",
+  },
+  {
+    id: 147,
+    title: "712",
+    text: "宇航员们正在用光年来测量太空中的距离",
+    textEn: "astronauts are using light years to measure the distance in space",
+  },
+  {
+    id: 148,
+    title: "710",
+    text: "听力是这门课取得成功的关键",
+    textEn: "listening is the key to succeeding in this course",
+  },
+  {
+    id: 149,
+    title: "697",
+    text: "在生物实验室发现了一台笔记本电脑",
+    textEn: "a laptop has been found at the biology lab",
+  },
+  {
+    id: 150,
+    title: "675",
+    text: "大学应该投资于为学习而设计的新技术",
+    textEn: "Universities should invest in new technologies designed for learning",
   },
 ];
