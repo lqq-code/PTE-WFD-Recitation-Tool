@@ -62,7 +62,7 @@ export const questionData = [{
     id: 11,
     title: "2466",
     text: "存档材料的数字扫描只需支付少量费用。",
-    textEn: "digital scans of archived materials are provided with a small fee",
+    textEn: "digital scans of archived  are provided with a small fee",
   },
   {
     id: 12,
@@ -92,7 +92,7 @@ export const questionData = [{
     id: 16,
     title: "2457",
     text: "这些年来，越来越多的学生是年轻人",
-    textEn: "over the years, more and more students are young",
+    textEn: "over the years ,more and more students are young",
   },
   {
     id: 17,
@@ -116,7 +116,7 @@ export const questionData = [{
     id: 20,
     title: "2450",
     text: "你的学期论文,应包括当前的社会问题",
-    textEn: "your term papers,should include current social issues",
+    textEn: "your term papers should include current social issues",
   },
   {
     id: 21,
@@ -649,108 +649,5 @@ export const questionData = [{
     title: "1034",
     text: "农民需要适应气候的变化",
     textEn: "the farmers need to adapt to the changes of the climate",
-  }, {
-    id: 111,
-    title: "951",
-    text: "蜂蜜可以用作食品和保健品",
-    textEn: "honey can be used as food and health product",
-  }, {
-    id: 112,
-    title: "933",
-    text: "这门课程涉及纯数学和应用数学",
-    textEn: "the course involves pure and applied mathematics",
-  }, {
-    id: 113,
-    title: "904",
-    text: "世界各地的学术图书馆都在稳步整合社交媒体",
-    textEn: "academic libraries across the world are steadily incorporating social media",
-  }, {
-    id: 114,
-    title: "886",
-    text: "名单上的许多疾病已经被根除",
-    textEn: "many diseases on the list have been eradicated",
-  }, {
-    id: 115,
-    title: "878",
-    text: "树木通过吸收越野行驶的水而有益于城市",
-    textEn: "trees benefit the city by absorbing water running off-road",
-  }, {
-    id: 116,
-    title: "864",
-    text: "许多大学的讲座现在可以在互联网上查阅",
-    textEn: "many universities' lectures can now be reviewed on the internet",
-  }, {
-    id: 117,
-    title: "860",
-    text: "神经科学是由完全独立的部分组成的",
-    textEn: "neuroscience is a compound of completely separate parts",
-  }, {
-    id: 118,
-    title: "858",
-    text: "文物船失事的那一年引起了历史学家的兴趣",
-    textEn: "the year when the ship of artifacts was wrecked interested historians",
-  }, {
-    id: 119,
-    title: "847",
-    text: "美国人逐渐从数量上定义了植物生长和生殖发育的过程",
-    textEn: "americans have progressively defined the process of plant growth and reproductive development in quantitative terms",
-  }, {
-    id: 120,
-    title: "833",
-    text: "速度是指物体或人移动的速度",
-    textEn: "speed is defined as how quickly an object or a person moves",
-  },
-  {
-    id: 121,
-    title: "815",
-    text: "各部落争先恐后地建造成一体式的雕像",
-    textEn: "tribes vied with each other to build up monolithic statues",
-  },
-  {
-    id: 122,
-    title: "809",
-    text: "股票市场重新设计了全世界的市场",
-    textEn: "the stock market redesigned the market throughout the world",
-  },{
-    id: 123,
-    title: "805",
-    text: "这座城堡的设计目的是恐吓当地人和敌人",
-    textEn: "the castle was designed to intimidate both local people and the enemies",
-  },{
-    id: 124,
-    title: "799",
-    text: "国际交流是我们学习计划的重要组成部分",
-    textEn: "International exchanges formed the important part of our study program",
-  },{
-    id: 125,
-    title: "798",
-    text: "糖是一种由碳、氧和氢组成的化合物",
-    textEn: "sugar is a compound which consists of carbon oxygen and hydrogen",
-  },{
-    id: 126,
-    title: "758",
-    text: "请注意，讲座将准时开始，所以请不要迟到",
-    textEn: "note lecture will begin punctually so please do not be late",
-  },
-  {
-    id: 127,
-    title: "745",
-    text: "鉴于数字革命，新闻业面临危机",
-    textEn: "journalism faces the crisis in the light of the digital revolution",
-  },{
-    id: 128,
-    title: "738",
-    text: "学生商店有一系列文具",
-    textEn: "the student shop has a range of stationery",
-  },{
-    id: 129,
-    title: "1010",
-    text: "逾期的申请在任何情况下都不予受理",
-    textEn: "late applications are not accepted under any circumstances",
-  },{
-    id: 130,
-    title: "1008",
-    text: "学生们应该把书包放在门口的桌子上",
-    textEn: "students should leave their bags on the table by the door",
   },
 ];
