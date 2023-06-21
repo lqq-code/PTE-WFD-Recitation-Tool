@@ -951,4 +951,256 @@ export const questionData = [
     text: "大学应该投资于为学习而设计的新技术",
     textEn: "Universities should invest in new technologies designed for learning",
   },
+  {
+    id: 151,
+    title: "2448",
+    text: "如果没有阅读清单，你就不能阅读任何书籍",
+    textEn: "You may not be allowed to read any books without the reading list",
+  },
+  {
+    id: 152,
+    title: "673",
+    text: "导师应该在开始上课时设定一个明确的目标",
+    textEn: "tutors should set a clear goal at the start of the class",
+  }, {
+    id: 153,
+    title: "660",
+    text: "时间和距离用于计算速度",
+    textEn: "time and distance are used to calculate speed",
+  }, {
+    id: 154,
+    title: "651",
+    text: "这出戏的海报挂在大演讲厅里",
+    textEn: "the poster of this play is hung in the large lecture theater",
+  }, {
+    id: 155,
+    title: "644",
+    text: "合作者进行持续评估",
+    textEn: "the cooperator operates a continuous assessment",
+  }, {
+    id: 156,
+    title: "641",
+    text: "留学生可以显著提高工作机会",
+    textEn: "Students who study overseas can significantly improve work chances",
+  }, {
+    id: 157,
+    title: "637",
+    text: "奇怪的是，人们自发地对统计数字印象深刻",
+    textEn: "strangely people are spontaneously impressed by statistics",
+  }, {
+    id: 158,
+    title: "633",
+    text: "研究表明，锻炼能让我们感觉更好",
+    textEn: "Research shows the exercising makes us feel better",
+  }, {
+    id: 159,
+    title: "631",
+    text: "实验室必须始终穿戴防护服",
+    textEn: "protective clothing must always be worn in the laboratory",
+  }, {
+    id: 160,
+    title: "627",
+    text: "同行评审是科学方法的重要组成部分",
+    textEn: "peer review is an essential part of the scientific method",
+  }, {
+    id: 161,
+    title: "619",
+    text: "制造业现在带来的人口比农业和渔业加起来还要多",
+    textEn: "manufacturing now brings more people in than agriculture and fishing combined",
+  },{
+    id: 162,
+    title: "605",
+    text: "每个学生都定期与他的私人导师会面",
+    textEn: "Every student has a regular meeting with his or her personal tutor",
+  },{
+    id: 163,
+    title: "599",
+    text: "随着经济增长，消费者信心趋于增强",
+    textEn: "consumer confidence tends to increase as the economy expands",
+  },{
+    id: 164,
+    title: "584",
+    text: "你下学期需要交论文",
+    textEn: "you need to hand in the essay next semester",
+  },{
+    id: 165,
+    title: "239",
+    text: "大学学习结束后，通常需要更多的研究生培训",
+    textEn: "more graduate training is often needed after the university study is finished",
+  },{
+    id: 166,
+    title: "559",
+    text: "我们学习科学是为了了解和欣赏我们周围的世界",
+    textEn: "we study science to understand and appreciate the world around us",
+  },{
+    id: 167,
+    title: "557",
+    text: "我们的社会还没有实现平等",
+    textEn: "we have not yet achieved equality in our society",
+  },{
+    id: 168,
+    title: "553",
+    text: "校园里的水龙头将阻止人们频繁使用塑料瓶",
+    textEn: "water taps on the campus will discourage the frequent use of plastic bottles",
+  },{
+    id: 169,
+    title: "551",
+    text: "预计明年大学学费将上涨",
+    textEn: "university fees are expected to increase next year",
+  },{
+    id: 170,
+    title: "527",
+    text: "今天上午关于经济政策的讲座被取消了",
+    textEn: "this morning's lecture on economic policy has been canceled",
+  },{
+    id: 171,
+    title: "508",
+    text: "每学期为所有新生举办欢迎晚会",
+    textEn: "There is a welcome party for all new students each term",
+  },{
+    id: 172,
+    title: "507",
+    text: "在书店附近的校园里有一家药店",
+    textEn: "there is a pharmacy on campus near the bookstore",
+  },{
+    id: 173,
+    title: "503",
+    text: "人们对这些事件是否真的发生存有疑问",
+    textEn: "there are some doubts about whether these events actually occurred",
+  },{
+    id: 174,
+    title: "500",
+    text: "医学研究有很多分支",
+    textEn: "there are many branches of medical studies",
+  },{
+    id: 175,
+    title: "496",
+    text: "人们交流的方式在不断变化",
+    textEn: "the ways in which people communicate are constantly changing",
+  },{
+    id: 176,
+    title: "494",
+    text: "具有特殊含义的词汇被称为行话",
+    textEn: "the vocabulary that has peculiar meanings is called jargon",
+  },{
+    id: 177,
+    title: "481",
+    text: "数学课的时间改为十点半",
+    textEn: "the time of the math lecture has been changed to ten thirty",
+  },{
+    id: 178,
+    title: "471",
+    text: "摘要包含最重要的信息",
+    textEn: "the synopsis contains the most important information",
+  },{
+    id: 179,
+    title: "444",
+    text: "将使用会议标准方法对资格进行评估",
+    textEn: "the qualification will be assessed by using a conference criterion approach",
+  },{
+    id: 180,
+    title: "435",
+    text: "另一本书虽然不彻底，但更有见地",
+    textEn: "The other book is not thorough but it's more insightful",
+  },{
+    id: 181,
+    title: "427",
+    text: "这个国家通过向贸易开放港口实现了繁荣",
+    textEn: "the nation achieved prosperity by opening its ports for trade",
+  },{
+    id: 182,
+    title: "416",
+    text: "明天的讲座将讨论美国的教育政策",
+    textEn: "the lecture tomorrow will discuss the educational policy in the United States",
+  },{
+    id: 183,
+    title: "410",
+    text: "明天的讲座将讨论美国的教育政策",
+    textEn: "the introduction is an important component of a good presentation",
+  },{
+    id: 184,
+    title: "404",
+    text: "第一次任务定于9月14日完成",
+    textEn: "the first assignment is due on the fourteenth of September",
+  },{
+    id: 185,
+    title: "399",
+    text: "教职员工非常平易近人，乐于助人，非常友好",
+    textEn: "the faculty staff are very approachable helpful and extremely friendly",
+  },{
+    id: 186,
+    title: "395",
+    text: "由于专业考试，考试系统已经升级",
+    textEn: "the exam system has been upgraded due to professional exams",
+  },{
+    id: 187,
+    title: "385",
+    text: "地球的大气层主要由氮和氧组成",
+    textEn: "the earth's atmosphere is mostly composed of nitrogen and oxygen",
+  },{
+    id: 188,
+    title: "482",
+    text: "新学期的时间表将于下周公布",
+    textEn: "Timetables for the new term will be available next week",
+  },{
+    id: 189,
+    title: "419",
+    text: "自年初以来，营销预算翻了一番",
+    textEn: "he marketing budget has doubled since the beginning of the year",
+  },{
+    id: 190,
+    title: "439",
+    text: "当地发展忽视了野生动物的困境",
+    textEn: "The plight of wildlife has been ignored by local developers",
+  },{
+    id: 191,
+    title: "375",
+    text: "舞蹈系每学期都会精心安排表演",
+    textEn: "the dance department stages elaborated performances each semester",
+  },{
+    id: 192,
+    title: "370",
+    text: "该课程帮助学生提高发音技能",
+    textEn: "the course helps students to improve their pronunciation skills",
+  },{
+    id: 193,
+    title: "358",
+    text: "校园之旅将帮助你熟悉教学设施",
+    textEn: "The campus tour will help you to get familiar with the teaching facilities",
+  },{
+    id: 194,
+    title: "354",
+    text: "商业计划研讨会包括在当地一家公司实习",
+    textEn: "The business plan seminar includes an internship with a local firm",
+  },{
+    id: 195,
+    title: "350",
+    text: "作者早期的作品不那么富有哲理，更多的是实验性的",
+    textEn: "the author's early works are less philosophical and more experimental",
+  },{
+    id: 196,
+    title: "346",
+    text: "与保守派政治家有联系的艺术家赢得了评论家的角色",
+    textEn: "The artists tied with the conservative politicians earned the roles of critics",
+  },{
+    id: 197,
+    title: "335",
+    text: "这篇文章考虑了农村地区或地方青少年的休闲习惯",
+    textEn: "the article considered the leisure habits of teenagers in rural areas or places",
+  },{
+    id: 198,
+    title: "332",
+    text: "申请过程可能需要比预期更长的时间",
+    textEn: "The application process may take longer than expected",
+  },{
+    id: 199,
+    title: "330",
+    text: "航空照片被迅速登记，以便进行彻底评估",
+    textEn: "the aerial photographs were promptly registered for thorough evaluation",
+  },{
+    id: 200,
+    title: "328",
+    text: "与同学一起工作的能力再怎么强调也不为过",
+    textEn: "",
+  },
 ];
