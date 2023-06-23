@@ -1201,6 +1201,251 @@ export const questionData = [
     id: 200,
     title: "328",
     text: "与同学一起工作的能力再怎么强调也不为过",
-    textEn: "",
+    textEn: "the ability to work with fellow students cannot be stressed enough",
+  },{
+    id: 201,
+    title: "315",
+    text: "想参加会议的学生现在必须注册",
+    textEn: "students who attempted to go to the conference must register now",
+  },{
+    id: 202,
+    title: "300",
+    text: "建议学生使用多种方法进行此项目",
+    textEn: "students are advised to use multiple methods for this project",
+  },{
+    id: 203,
+    title: "284",
+    text: "她首先概述了上一次讲座的内容",
+    textEn: "she began by giving an outline of the previous lecture",
+  },{
+    id: 204,
+    title: "280",
+    text: "预计下个世纪海平面将上升",
+    textEn: "sea levels are expected to rise during the next century",
+  },{
+    id: 205,
+    title: "277",
+    text: "科学家们总是向政府索要更多的钱",
+    textEn: "scientists are always asking the government for more money",
+  },{
+    id: 206,
+    title: "276",
+    text: "太空探索的科学受益者经常受到质疑",
+    textEn: "scientific beneficiary to space exploration is frequently questioned",
+  },{
+    id: 207,
+    title: "267",
+    text: "请记住，享有盛誉的部分有严格的资格标准",
+    textEn: "remember the prestigious section has strict eligibility criteria",
+  },{
+    id: 208,
+    title: "258",
+    text: "收音机是全世界流行的娱乐形式",
+    textEn: "radio is a popular form of entertainment throughout the world",
+  },{
+    id: 209,
+    title: "247",
+    text: "请记得下周四带荧光笔和课本来上课",
+    textEn: "please remember to bring a highlighter and your textbook to class next thursday",
+  },{
+    id: 210,
+    title: "246",
+    text: "请注意，提交截止日期仅在特殊情况下可协商",
+    textEn: "please note submission deadlines are only negotiable in exceptional circumstances",
+  },{
+    id: 211,
+    title: "236",
+    text: "同龄人的压力对年轻人有很大影响",
+    textEn: "peer group pressure has a great effect on young people",
+  },{
+    id: 212,
+    title: "231",
+    text: "包装对于吸引买家的注意力非常重要",
+    textEn: "packaging is very important to attract the attention of a buyer",
+  },{
+    id: 213,
+    title: "227",
+    text: "我们的教授正在主持商业发展会议",
+    textEn: "our professor is hosting the business development conference",
+  },{
+    id: 214,
+    title: "189",
+    text: "许多鸟类迁徙到温暖的地区过冬",
+    textEn: "many birds migrate to warmer areas for the winter",
+  },{
+    id: 215,
+    title: "188",
+    text: "犯错误是好的，只要你从中吸取教训",
+    textEn: "making mistakes is fine as long as you learn from it",
+  },{
+    id: 216,
+    title: "170",
+    text: "这确实是一个综合性的计划，包括理论和实践",
+    textEn: "it is really a comprehensive program comprising both theory and practice",
+  },{
+    id: 217,
+    title: "155",
+    text: "摘要中缺少论证的重要细节",
+    textEn: "important details from the argument are missing in the summary",
+  },{
+    id: 218,
+    title: "153",
+    text: "如果您需要更多帮助，请访问大学资源中心",
+    textEn: "if you need additional help please visit the university resources center",
+  },{
+    id: 219,
+    title: "150",
+    text: "如果资金问题令人担忧，可能会提供奖学金",
+    textEn: "if finance is a cause of concern scholarships may be available",
+  },{
+    id: 220,
+    title: "147",
+    text: "我一会儿再谈这个",
+    textEn: "i will come back to this in a moment",
+  },{
+    id: 221,
+    title: "136",
+    text: "他在一家很有声望的律师事务所找到了工作",
+    textEn: "he landed his job in a very prestigious law firm",
+  },{
+    id: 222,
+    title: "289",
+    text: "一些经济学家认为，整个金融体系存在致命缺陷",
+    textEn: "some economists argue that the entire financial system is fatally flawed",
+  },{
+    id: 223,
+    title: "558",
+    text: "我们有复杂的方法来研究大脑的动作",
+    textEn: "we have sophisticated ways to study in brain action",
+  },{
+    id: 224,
+    title: "333",
+    text: "这位考古学家的新发现在以前被忽视的基础上脱颖而出",
+    textEn: "the archeologist's new discoveries stand out in previously overlooked foundations",
+  },{
+    id: 225,
+    title: "299",
+    text: "学生代表将带着投票表参观课堂",
+    textEn: "student representatives will be visiting classes with voting forms",
+  },{
+    id: 226,
+    title: "310",
+    text: "需要延期的学生应该尽早申请",
+    textEn: "students requiring an extension should apply sooner rather than later",
+  },{
+    id: 227,
+    title: "179",
+    text: "讲座是大学里最古老、最正式的教学方法",
+    textEn: "lectures are the most oldest and formal teaching method at the university",
+  },{
+    id: 228,
+    title: "478",
+    text: "器乐作品的主题更多地表现出端庄、构图的风格",
+    textEn: "the theme of the instrumental work exhibits more of a demure compositional style",
+  },{
+    id: 229,
+    title: "213",
+    text: "护士可以专门从事临床工作和管理",
+    textEn: "nurses can specialize in clinical work and management",
+  },{
+    id: 230,
+    title: "106",
+    text: "教育和培训为劳动力提供重要技能",
+    textEn: "education and training provide important skills for the labour force",
+  },{
+    id: 231,
+    title: "97",
+    text: "日常练习可以建立信心并提高技能",
+    textEn: "daily practise can build confidence and improve skills",
+  },{
+    id: 232,
+    title: "94",
+    text: "很难获得令人信服的证据来支持这一理论",
+    textEn: "convincing evidence to support this theory is hard to obtain",
+  },{
+    id: 233,
+    title: "86",
+    text: "护理临床实习为学生的专业实践做好准备",
+    textEn: "clinical placement in nursing prepares students for professional practice",
+  },{
+    id: 234,
+    title: "85",
+    text: "气候变化现在在一群声誉良好的科学家中是一种可以接受的现象",
+    textEn: "Climate change is now an acceptable phenomenon among a group of reputable scientists",
+  },{
+    id: 235,
+    title: "83",
+    text: "请点击上面的标志进入网站",
+    textEn: "please click the logo above to enter the site",
+  },{
+    id: 236,
+    title: "69",
+    text: "在提交论文之前，你的导师必须批准你的申请",
+    textEn: "Before submitting your dissertation, your advisor must approve your applicatio",
+  },{
+    id: 237,
+    title: "58",
+    text: "在这方面以及在其他方面，它是一项重要贡献",
+    textEn: "and in that regard as well as in other regards it stands as an important contribution",
+  },{
+    id: 238,
+    title: "51",
+    text: "尽管可持续发展并不容易，但这是一项不可避免的责任",
+    textEn: "although sustainable development is not easy it is an unavoidable responsibility",
+  },{
+    id: 239,
+    title: "49",
+    text: "所有的教育改革都没有得到充分实施",
+    textEn: "all the educational reforms have been inadequately implemented",
+  },{
+    id: 240,
+    title: "46",
+    text: "所有学生每学期都要参加十次实验",
+    textEn: "all students are expected to attend ten lab sessions per semester",
+  },{
+    id: 241,
+    title: "29",
+    text: "一个人的教育水平与其经济背景密切相关",
+    textEn: "a person's educational level is closely to his related economic background",
+  },{
+    id: 242,
+    title: "26",
+    text: "大量的数据积累被转化为一个可传播的论点",
+    textEn: "a massive accumulation of data was converted to  a communicable argument",
+  },{
+    id: 243,
+    title: "22",
+    text: "一个好的建筑结构应该是实用的、耐用的、美观的",
+    textEn: "a good architectural structure should be useable durable and beautiful",
+  },{
+    id: 244,
+    title: "20",
+    text: "一个著名的理论仍然是巨大争议的根源",
+    textEn: "a celebrated theory is still the source of great controversy",
+  },{
+    id: 245,
+    title: "115",
+    text: "每个学生都有成功的权利和能力",
+    textEn: "every student has both the right and the ability to succeed",
+  },{
+    id: 246,
+    title: "105",
+    text: "罗马共和国早期的经济实力将受到审查",
+    textEn: "economic strength of early roman republic will be examined",
+  },{
+    id: 247,
+    title: "40",
+    text: "所有学位论文必须附有提交表格",
+    textEn: "all dissertations must be accompanied with a submission form",
+  },{
+    id: 248,
+    title: "4",
+    text: "你将在学术学习中获得新技能",
+    textEn: "you will acquire new skills during your academic studies",
+  },{
+    id: 249,
+    title: "2",
+    text: "请确认您已收到课本",
+    textEn: "Please confirm that you have received the textbook",
   },
 ];
